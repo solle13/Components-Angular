@@ -1,2 +1,2 @@
-# Components-Angular
+# Timeline-Angular
 Shared components
